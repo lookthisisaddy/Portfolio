@@ -9,7 +9,7 @@ export const Bio = {
     "Motivated, adaptable, and committed to excellence, I bring a positive attitude and a growth mindset to every challenge. Ready to make a meaningful impact and achieve success.",
   github: "https://github.com/lookthisisaddy",
   resume:
-    "https://drive.google.com/file/d/16xwXfwNg1JNnJ7R8nhbXZnUlv9kdG9FP/view?usp=sharing",
+    "https://drive.google.com/file/d/1G2jSxzUHuCrX1BV3qtPri-6pReCMT7uA/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/adityasingh24/",
   twitter: "https://twitter.com/lookthisisaddy",
   insta: "https://www.instagram.com/lookthisisaddy/"
