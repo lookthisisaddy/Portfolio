@@ -147,10 +147,11 @@ export const experiences = [
     role: "Analyst",
     company: "Deloitte Touche Tohmatsu India LLP",
     date: "June 2022 - Present",
-    desc: "Led pivotal projects aimed at creating robust web applications to address inefficiencies and limitations in existing processes within SuccessFactors, an ERP, aiming for a streamlined and user-friendly system. Development encompassed the utilization of Node.js and JavaScript frontend frameworks, leveraging cloud platforms like SAP BTP within a cloud foundry environment. Conducted thorough testing and collaborated with cross-functional teams to improve performance and client satisfaction resulting in successful go-live of the application. Experienced working in agile, including CI/CD, contributing to various stages of the SDLC. Additionally, acquired valuable experience working with a low-code/no-code software platform.",
+    desc: "Led pivotal projects aimed at creating robust mobile & web applications, ensuring adherence to UI/UX guidelines, and aiming for a streamlined and user-friendly system. Development involved leveraging Node.js, JavaScript frontend frameworks, HTML, CSS, and RESTful APIs to deliver scalable and responsive web applications with enhanced user experience. Experienced in DevOps practices and cloud technologies, particularly with platforms like SAP BTP to optimize deployment pipelines, enhance scalability, and ensure seamless integration across the development lifecycle. Conducted comprehensive testing and performance optimization to diagnose and fix bugs and bottlenecks. Collaborated closely with cross-functional teams, including designers and product managers, to translate business requirements into functional features and drive successful go-live of applications. Experienced in utilizing code versioning tools such as Git and implementing CI/CD practices to streamline development workflows and ensure efficient code deployment.",
     skills: [
       "NodeJS",
       "JavaScript",
+      "ReactJS",
       "Java",
       "SAP BTP",
       "Cloud Foundry",
