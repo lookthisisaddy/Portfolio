@@ -9,7 +9,7 @@ export const Bio = {
     "Motivated, adaptable, and committed to excellence, I bring a positive attitude and a growth mindset to every challenge. Ready to make a meaningful impact and achieve success.",
   github: "https://github.com/lookthisisaddy",
   resume:
-    "https://drive.google.com/file/d/1G2jSxzUHuCrX1BV3qtPri-6pReCMT7uA/view?usp=sharing",
+    "https://drive.google.com/file/d/1602B41l8b1Nq9HS4aEGvzHBQnfKVi7Fx/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/adityasingh24/",
   twitter: "https://twitter.com/lookthisisaddy",
   insta: "https://www.instagram.com/lookthisisaddy/"
@@ -147,7 +147,7 @@ export const experiences = [
     role: "Analyst",
     company: "Deloitte Touche Tohmatsu India LLP",
     date: "June 2022 - Present",
-    desc: "Led pivotal projects aimed at creating robust mobile & web applications, ensuring adherence to UI/UX guidelines, and aiming for a streamlined and user-friendly system. Development involved leveraging Node.js, JavaScript frontend frameworks, HTML, CSS, and RESTful APIs to deliver scalable and responsive web applications with enhanced user experience. Experienced in DevOps practices and cloud technologies, particularly with platforms like SAP BTP to optimize deployment pipelines, enhance scalability, and ensure seamless integration across the development lifecycle. Conducted comprehensive testing and performance optimization to diagnose and fix bugs and bottlenecks. Collaborated closely with cross-functional teams, including designers and product managers, to translate business requirements into functional features and drive successful go-live of applications. Experienced in utilizing code versioning tools such as Git and implementing CI/CD practices to streamline development workflows and ensure efficient code deployment.",
+    desc: "Translating project requirements into code, I serve as a full-stack developer proficient in both front-end and back-end. I lead feature development, ensuring best practices from start to finish. Developed a comprehensive web application for enterprise shift scheduling, cutting scheduling time by 40% and boosting employee satisfaction through smoother processes and increased flexibility. Integrated front-end components seamlessly with server-side logic, utilizing the RTK query library. Acquired hands-on experience in designing and implementing RESTful APIs using Express and MySQL. Created technical documentation and provided training to ensure smooth on boarding of staff and effective knowledge transfer. Gained key insights into the companys standards for application development, including Agile and iterative development practices. Tech Stack Used: Javacript, React, Node.js, HTML/CSS, REST API, MySQL",
     skills: [
       "NodeJS",
       "JavaScript",
