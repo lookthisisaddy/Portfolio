@@ -9,7 +9,7 @@ export const Bio = {
     "Motivated, adaptable, and committed to excellence, I bring a positive attitude and a growth mindset to every challenge. Ready to make a meaningful impact and achieve success.",
   github: "https://github.com/lookthisisaddy",
   resume:
-    "https://drive.google.com/file/d/1602B41l8b1Nq9HS4aEGvzHBQnfKVi7Fx/view?usp=sharing",
+    "https://drive.google.com/file/d/15dD_f8gW3hg50Ob_OuPreeYceRyxzXcZ/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/adityasingh24/",
   twitter: "https://twitter.com/lookthisisaddy",
   insta: "https://www.instagram.com/lookthisisaddy/"
@@ -179,6 +179,7 @@ export const experiences = [
 ];
 
 export const education = [
+  
   {
     id: 0,
     img: "https://firebasestorage.googleapis.com/v0/b/my-portfolio-15773.appspot.com/o/images%2Fvjti_logo.jpg?alt=media&token=a8eb3a03-bf8a-4af3-acf0-e9f956efbeac",
@@ -211,27 +212,32 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "Online Shopping Site",
-    date: "Dec 2023 - Dec 2023",
+    title: "YouCool - A Youtube Clone",
+    date: "Feb 2024 - Feb 2024",
     description:
-      "Developed an e-commerce platform using React.js for the frontend, prioritizing a smooth user journey from browsing products to tracking orders. This project integrated Material UI and Tailwind CSS to enhance the design and functionality",
+      "A dynamic YouTube clone crafted with React.js, HTML&CSS, and powered by the YouTube API, bringing you a seamless viewing experience(without any ads😉).",
     image:
-      "https://raw.githubusercontent.com/lookthisisaddy/E-Commerce/master/git_images/home.png",
-    tags: ["React Js", "Tailwind CSS", "Material UI", "React-router"],
+      "https://firebasestorage.googleapis.com/v0/b/my-portfolio-15773.appspot.com/o/images%2Flivdemo.gif?alt=media&token=00f0e1c7-8e81-4a9e-a83a-71e4886b669f",
+    tags: ["React.js", "HTML5", "CSS", "Youtube API", "Google Cloud Console", "Javascript"],
     category: "web app",
-    github: "https://github.com/lookthisisaddy/E-Commerce",
-    webapp: "",
-    // member: [
-    //   {
-    //     name: "Aditya Singh",
-    //     img: "https://avatars.githubusercontent.com/u/44236128?v=4",
-    //     linkedin: "https://www.linkedin.com/in/adityasingh24/",
-    //     github: "https://github.com/lookthisisaddy/",
-    //   }
-    // ],
+    github: "https://github.com/lookthisisaddy/YouCool",
+    webapp: "https://myyoucool.netlify.app/"
   },
   {
     id: 1,
+    title: "Trello Clone",
+    date: "April 2024 - April 2021",
+    description:
+      "A Trello frontend clone built using React, styled with Bootstrap and has drag-and-drop features thanks to react-beautiful-dnd. This platform enables the creation of task lists, facilitating efficient tracking in a user-friendly and intuitive UI.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/my-portfolio-15773.appspot.com/o/images%2Ftrello_demo.gif?alt=media&token=41fe9eb6-431d-4395-98fd-b85891dac168",
+    tags: ["React.js", "HTML5", "CSS", "Youtube API", "Google Cloud Console", "Javascript"],
+    category: "web app",
+    github: "https://github.com/lookthisisaddy/Trello",
+    webapp: "https://mytrelloapp.vercel.app/"
+  },
+  {
+    id: 3,
     title: "Location Guide - Google Maps Clone",
     date: "Apr 2021 - Jun 2021",
     description:
@@ -244,7 +250,7 @@ export const projects = [
     webapp: ""
   },
   {
-    id: 2,
+    id: 4,
     title: "Frutsh",
     date: "Apr 2021 - Jun 2021",
     description:
@@ -256,19 +262,7 @@ export const projects = [
     github: "https://github.com/lookthisisaddy/Location-Guide",
     webapp: ""
   },
-  {
-    id: 3,
-    title: "YouCool - A Youtube Clone",
-    date: "Feb 2024 - Feb 2021",
-    description:
-      "A dynamic YouTube clone crafted with React.js, HTML&CSS, and powered by the YouTube API, bringing you a seamless viewing experience(without any ads😉).",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/my-portfolio-15773.appspot.com/o/images%2Flivdemo.gif?alt=media&token=00f0e1c7-8e81-4a9e-a83a-71e4886b669f",
-    tags: ["React.js", "HTML5", "CSS", "Youtube API", "Google Cloud Console", "Javascript"],
-    category: "web app",
-    github: "https://github.com/lookthisisaddy/YouCool",
-    webapp: "https://myyoucool.netlify.app/"
-  },
+  
 ];
 
 // export const TimeLineData = [
