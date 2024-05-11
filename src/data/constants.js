@@ -231,7 +231,7 @@ export const projects = [
       "A Trello frontend clone built using React, styled with Bootstrap and has drag-and-drop features thanks to react-beautiful-dnd. This platform enables the creation of task lists, facilitating efficient tracking in a user-friendly and intuitive UI.",
     image:
       "https://firebasestorage.googleapis.com/v0/b/my-portfolio-15773.appspot.com/o/images%2Ftrello_demo.gif?alt=media&token=41fe9eb6-431d-4395-98fd-b85891dac168",
-    tags: ["React.js", "HTML5", "CSS", "Youtube API", "Google Cloud Console", "Javascript"],
+    tags: ["React.js", "HTML5", "CSS", "Bootstrap 5", "Javascript", "react-beautiful-dnd"],
     category: "web app",
     github: "https://github.com/lookthisisaddy/Trello",
     webapp: "https://mytrelloapp.vercel.app/"
