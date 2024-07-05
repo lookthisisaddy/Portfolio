@@ -9,7 +9,7 @@ export const Bio = {
     "Motivated, adaptable, and committed to excellence, I bring a positive attitude and a growth mindset to every challenge. Ready to make a meaningful impact and achieve success.",
   github: "https://github.com/lookthisisaddy",
   resume:
-    "https://drive.google.com/file/d/15dD_f8gW3hg50Ob_OuPreeYceRyxzXcZ/view?usp=sharing",
+    "",
   linkedin: "https://www.linkedin.com/in/adityasingh24/",
   twitter: "https://twitter.com/lookthisisaddy",
   insta: "https://www.instagram.com/lookthisisaddy/"
@@ -147,7 +147,7 @@ export const experiences = [
     role: "Analyst",
     company: "Deloitte Touche Tohmatsu India LLP",
     date: "June 2022 - Present",
-    desc: "Translating project requirements into code, I serve as a full-stack developer proficient in both front-end and back-end. I lead feature development, ensuring best practices from start to finish. Developed a comprehensive web application for enterprise shift scheduling, cutting scheduling time by 40% and boosting employee satisfaction through smoother processes and increased flexibility. Integrated front-end components seamlessly with server-side logic, utilizing the RTK query library. Acquired hands-on experience in designing and implementing RESTful APIs using Express and MySQL. Created technical documentation and provided training to ensure smooth on boarding of staff and effective knowledge transfer. Gained key insights into the companys standards for application development, including Agile and iterative development practices. Tech Stack Used: Javacript, React, Node.js, HTML/CSS, REST API, MySQL",
+    desc: "Translated project requirements into code, serving as a proficient full-stack developer skilled in both front-end and back-end technologies. Led feature development, ensuring the application of best practices throughout. Developed a comprehensive web application for enterprise shift scheduling, resulting in a 40% reduction in scheduling time and a notable improvement in employee satisfaction due to smoother processes and enhanced flexibility. Leveraged React.js, Bootstrap, and JavaScript to create responsive and interactive UI components, ensuring a seamless and engaging user experience. Implemented advanced features like dynamic routing, form validations, and custom hooks. Utilized Redux to handle complex application states. On the backend, used Node.js, Express, and Mongoose to build efficient and scalable REST APIs. Designed RESTful endpoints to handle CRUD operations. JWT for user-authentication, applied middleware for logging, error handling, and request validation to maintain a robust and secure application infrastructure. Focused on optimizing performance through code-splitting, lazy loading, and implementing best practices for both front-end and back-end development. Created technical documentation and provided training to ensure smooth on boarding of staff and effective knowledge transfer. Partook in the team’s agile software development process; developed unit tests and functional/integration tests; supported production deployments of developed solutions. ",
     skills: [
       "NodeJS",
       "JavaScript",
@@ -163,7 +163,7 @@ export const experiences = [
   {
     id: 1,
     img: "https://firebasestorage.googleapis.com/v0/b/my-portfolio-15773.appspot.com/o/images%2Fmicroficial_logo.jpg?alt=media&token=8b82fea8-76df-4e07-8eb7-41e99007b0a8",
-    role: "Android Developer Intern",
+    role: "Internship - Android Developer",
     company: "Microficial Intelligence",
     date: "Feb 2021 - Jun 2021",
     desc: "During the third year of college, contributed to Android app development as an intern. Tasked with creating and maintaining Android apps, utilized Java, collection frameworks, and multi-threading techniques. Implemented Android UI best practices and material design for visually appealing layouts with intuitive navigations. Integrated Firebase for real-time data sync and authentication, alongside diverse APIs for location services and social sharing functionalities.",
@@ -212,10 +212,23 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "Shopping Website",
+    date: "Mar 2024 - Mar 2024",
+    description:
+      "Built an e-commerce platform using the MERN stack, ensuring a seamless user journey from product search to order tracking. Developed the front end using React.js & HTML/CSS to create responsive and dynamic UI components. Implemented the admin panel functionality by integrating features for adding new products.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/my-portfolio-15773.appspot.com/o/images%2Fshopper.png?alt=media&token=d137827a-393c-4898-875b-28cc40790315",
+    tags: ["React.js", "HTML5", "CSS", "NodeJs", "Express", "Javascript", "JWT", "MongoDB"],
+    category: "web app",
+    github: "https://github.com/lookthisisaddy/ShoppingWebsite",
+    webapp: "https://myshopperwebsite.netlify.app/"
+  },
+  {
+    id: 1,
     title: "YouCool - A Youtube Clone",
     date: "Feb 2024 - Feb 2024",
     description:
-      "A dynamic YouTube clone crafted with React.js, HTML&CSS, and powered by the YouTube API, bringing you a seamless viewing experience(without any ads😉).",
+      "Developed a front-end clone of YouTube using React, designed to deliver an ad-free viewing experience. The project focuses on replicating YouTube's core functionalities, including user interface, video playback, related videos, and comments, to provide a seamless and familiar user experience.",
     image:
       "https://firebasestorage.googleapis.com/v0/b/my-portfolio-15773.appspot.com/o/images%2Flivdemo.gif?alt=media&token=00f0e1c7-8e81-4a9e-a83a-71e4886b669f",
     tags: ["React.js", "HTML5", "CSS", "Youtube API", "Google Cloud Console", "Javascript"],
@@ -224,7 +237,7 @@ export const projects = [
     webapp: "https://myyoucool.netlify.app/"
   },
   {
-    id: 1,
+    id: 2,
     title: "Trello Clone",
     date: "April 2024 - April 2021",
     description:
